@@ -2,7 +2,7 @@
 
 *Análise de Dados*
 
-Estudante de Sistemas de Informação na Universidade do Vale do Sapucaí, com foco em análise de dados. Tenho forte interesse em processos, dados e na forma como a tecnologia pode transformar rotinas operacionais. Estou desenvolvendo projetos de portfólio com Python, Pandas e Plotly para praticar o ciclo completo de análise: tratamento dos dados, exploração, visualização e construção de dashboards. Busco minha primeira oportunidade como Analista de Dados Júnior em regime remoto. Conecte-se comigo: "[LinkedIn](www.linkedin.com/in/joaoviper)" e "[Instagram](https://www.instagram.com/joao_vippe?psln=amtodHRoYTljbjhh)".
+Estudante de Sistemas de Informação na Universidade do Vale do Sapucaí, com foco em análise de dados. Tenho forte interesse em processos, dados e na forma como a tecnologia pode transformar rotinas operacionais. Estou desenvolvendo projetos de portfólio com Python, Pandas e Plotly para praticar o ciclo completo de análise: tratamento dos dados, exploração, visualização e construção de dashboards. Busco minha primeira oportunidade como Analista de Dados Júnior em regime remoto. Conecte-se comigo: "[LinkedIn](https://www.linkedin.com/in/joaoviper)" e "[Instagram](https://www.instagram.com/joao_vippe?psln=amtodHRoYTljbjhh)".
 
 ---
 
